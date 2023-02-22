@@ -1,0 +1,12 @@
+github 저장소 생성 -->깃허브 홈페이지
+github 저장소 클론 ----> 소스트리
+Commit 커밋 하기 : 세이브 
+(저장을 원하는 파일을 묶어서 커밋)
+ADD(스테이지에 올리기)
+Push 하기 
+git이란?? -- Version Control System
+						버전 관리 시스템 --시험문제냄
+Add 스테이지에 올린다
+push 업로드
+
+https://github.com/JinhoKim0924/helloAtentsUnity
